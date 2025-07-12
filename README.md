@@ -1,6 +1,6 @@
-                    **Autonomous Baby Incubator**
+                    **baby-incubator-control-system**
 
-This repository contains the design, implementation, and documentation for an **Arduino-based autonomous baby incubator**. It is a low-cost solution aimed at maintaining optimal temperature and humidity levels for preterm or sick infants.
+This repository contains the design, implementation, and documentation for an **Arduino-based automatic baby incubator**. It is a low-cost solution aimed at maintaining optimal temperature and humidity levels for preterm or sick infants.
 
 ### **Overview**
 Preterm births account for up to 20% of all births globally, with millions of infants requiring specialized care annually. This project tackles the challenge by providing a controlled environment to improve survival rates. The incubator is capable of:
